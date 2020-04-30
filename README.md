@@ -18,22 +18,15 @@ Project by Nicolas HODEE and Aurore CARRIERE
 
 With Love 
 
-                    .:+!++:::.  .:u+::.
-                 !!!X:!X<!!!<!#%?!!~XX!!!!:
-             :<!!X!!!!:!!>?~!~:<!~!!!?!!!X!!!:
-           <!!!%!!!!!~!!!!!!<!!!!!!!!!!!!!!!X!!:
-         <!!!!!!!!!!:<<<~~~!~~~~!~~~~!~!<!:!!!!!!:
-       :!!!!!!!!!~~~~~~~~~~~~~~~~~~~~~~~~~~<!~!!!!!.
-     .!\!!!!!~~~~~~~~~.io@$$$$N$$$bou. `~~~~~~~~:!!!:
-    <~~~~~~~~~~~~   ~*?******"#R$$$$$R"$Mx ~~~~~~~~!~~
-   '`~~~~~~          M#?#"?#**!@**?""??*MX     `~~~~~~~
-    `~~:::::::::~:~~:<:H!!:~<:~:<~::>:<:!::::::::::<<~~
-       ~!!!!!?!!MMXHM@$5@HM%8kdNh!HNRZ7$@MR$N!!?!<"~~
-         ~!!!!!!!!!?!!R?MMM!#$T*M!RMSMXM7!!!!!!!\~~
-           ~~~!!!!!~!!!!!!!!!<!!!!:!!!!!!!!<!~!~~  
-              ~~~~!!!!~!~!~~~!>!:~!!!!!!!!!~~~
-                 `~~~~~~!<!~~!<!!~~!::~~~~~
-                         ~~~~~~~~~~~~
+KKKK     KKK   III    SSSSSS     SSSSSS
+KKK    KKK    III   SSSSSSS    SSSSSSS
+KKK  KKKK     III   SSS        SSS
+KKKKKK        III   SSSSSS     SSSSSS
+KKKKKK        III   SSSSSSS    SSSSSSS
+KKK  KKKK     III       SSS        SSS
+KKK    KKK    III   SSSSSSS    SSSSSSS
+KKK     KKK   III   SSSSSS     SSSSSS
+
 
 
 
