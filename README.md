@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+Project by Nicolas HODEE and Aurore CARRIERE
+
 * Ruby version
 
 * System dependencies
