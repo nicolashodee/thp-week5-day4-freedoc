@@ -1,26 +1,39 @@
-# README
+# The Hacking Project - WEEK5 - DAY4
+## Project : FreeDoc
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Installation
 
-Things you may want to cover:
+To install the project, follow these steps :
+1. Use command `git clone` to clone the project on your environnment
+2. Use command `CD` to go in the project's repository
+3. Use command `bundle install` to install all the gem dependancies
 
+Then, you can :
+- Run the programme by using command `rails db:seed`
+- Open the Rails console by using command `rails c`
+- Open the Rails console by using command `tp Patient.all` or `tp Doctor.all` or `tp Appointment.all` or `tp Speciality.all`
+
+ruby '2.5.1'
 Project by Nicolas HODEE and Aurore CARRIERE
 
-* Ruby version
+With Love 
 
-* System dependencies
+                    .:+!++:::.  .:u+::.
+                 !!!X:!X<!!!<!#%?!!~XX!!!!:
+             :<!!X!!!!:!!>?~!~:<!~!!!?!!!X!!!:
+           <!!!%!!!!!~!!!!!!<!!!!!!!!!!!!!!!X!!:
+         <!!!!!!!!!!:<<<~~~!~~~~!~~~~!~!<!:!!!!!!:
+       :!!!!!!!!!~~~~~~~~~~~~~~~~~~~~~~~~~~<!~!!!!!.
+     .!\!!!!!~~~~~~~~~.io@$$$$N$$$bou. `~~~~~~~~:!!!:
+    <~~~~~~~~~~~~   ~*?******"#R$$$$$R"$Mx ~~~~~~~~!~~
+   '`~~~~~~          M#?#"?#**!@**?""??*MX     `~~~~~~~
+    `~~:::::::::~:~~:<:H!!:~<:~:<~::>:<:!::::::::::<<~~
+       ~!!!!!?!!MMXHM@$5@HM%8kdNh!HNRZ7$@MR$N!!?!<"~~
+         ~!!!!!!!!!?!!R?MMM!#$T*M!RMSMXM7!!!!!!!\~~
+           ~~~!!!!!~!!!!!!!!!<!!!!:!!!!!!!!<!~!~~  
+              ~~~~!!!!~!~!~~~!>!:~!!!!!!!!!~~~
+                 `~~~~~~!<!~~!<!!~~!::~~~~~
+                         ~~~~~~~~~~~~
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
